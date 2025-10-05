@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Mathias Zea e Ivan Montero
 
 int main() {
     int productoID;
@@ -87,3 +88,4 @@ int main() {
 
     return 0;
 }
+
